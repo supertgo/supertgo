@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Thiago Roberto 
 
-<!--
-**supertgo/supertgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Redes de Computadores no CEFET-MG <br>
+Brasil, Belo Horizonte, MG
 
-Here are some ideas to get you started:
 
+### Sobre Mim
 - 🔭 I’m currently working on ChatBot metrics
 - 🌱 I’m currently learning JS and Python
 
