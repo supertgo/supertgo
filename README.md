@@ -1,11 +1,12 @@
 ### Hi there 👋 I am Thiago Roberto 
 
-Estudante de Redes de Computadores no CEFET-MG <br>
-Brasil, Belo Horizonte, MG
+Computer Network Student at CEFET-MG<br>
+Brazil, Belo Horizonte, MG
 
 
-### Sobre Mim
-- 🔭 I’m currently working on ChatBot metrics
+### About Me
+- 🔭 I’m currently working on ChatBot metrics with Python
+- 🖥️ I’m currently working on The Odin Project's full stack JavaScript curriculum.
 - 🌱 I’m currently learning JS and Python
 
 
