@@ -13,7 +13,7 @@ Brazil, Belo Horizonte, MG
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=supertgo)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=supertgo&show_icons=true&theme=buefy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=supertgo&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supertgo&theme=vue)
 
