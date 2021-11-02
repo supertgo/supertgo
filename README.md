@@ -1,4 +1,4 @@
-### Hi there 👋 I am Thiago Roberto 
+### Hi there 👋 I am Thiago Roberto!
 
 Computer Network Student at CEFET-MG<br>
 Brazil, Belo Horizonte, MG
