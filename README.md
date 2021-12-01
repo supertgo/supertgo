@@ -3,12 +3,6 @@
 Computer Network Student at CEFET-MG<br>
 Brazil, Belo Horizonte, MG
 
-
-### About Me
-- 🔭 I’m currently working on ChatBot metrics with Python
-- 🖥️ I’m currently working on The Odin Project's full stack JavaScript curriculum.
-- 🌱 I’m currently learning JS and Python
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thiago-roberto-69763b142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiago-roberto-69763b142/" height="30" width="40" /></a>
