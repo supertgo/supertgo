@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Thiago Roberto!
 
-Full Stack Developer Jr <br>
+Full Stack Developer <br>
 Computer Network Student at CEFET-MG<br>
 Brazil, Belo Horizonte, MG
 
