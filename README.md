@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Thiago Roberto!
 
 Full Stack Developer at Quaq <br>
-Computer Network Student at CEFET-MG<br>
+Computer Network Technician at CEFET-MG<br>
 Brazil, Belo Horizonte, MG
 
 <h3 align="left">Connect with me:</h3>
