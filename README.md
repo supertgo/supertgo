@@ -17,6 +17,8 @@ Brazil, Belo Horizonte, MG
 
 </p>
 
+### 📕 &nbsp;Latest Blog Posts
+
 - [Entendendo o EXIF das imagens importadas por dispositivos mobile.](https://supertgo.hashnode.dev/entendendo-exif-das-imagens-importadas-por-dispositivos-mobile)
 
 <h3 align="left">Languages and Tools:</h3>
