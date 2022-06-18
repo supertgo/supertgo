@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Thiago Roberto!
 
-Full Stack Developer at Quaq <br>
+Full Stack Developer <br>
 Computer Network Technician at CEFET-MG<br>
 Brazil, Belo Horizonte, MG
 
