@@ -1,4 +1,4 @@
-### Hi there 👋 I am Thiago Roberto Magalhães!
+### Hi there! 👋 I am Thiago Roberto Magalhães!
 
 Full Stack Developer <br>
 Computer Network Technician at CEFET-MG<br>
