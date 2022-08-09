@@ -23,7 +23,7 @@ Brazil, Belo Horizonte, MG
 
 ### 📕 &nbsp;Latest Blog Posts
 
-- [Entendendo o EXIF das imagens importadas por dispositivos mobile.](https://supertgo.hashnode.dev/entendendo-exif-das-imagens-importadas-por-dispositivos-mobile)
+- [Entendendo o EXIF das imagens importadas por dispositivos mobile.](https://supertgo.hashnode.dev/entendendo-exif-das-imagens-importadas-por-dispositivos-mobile).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/> </a>   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> </a> 
