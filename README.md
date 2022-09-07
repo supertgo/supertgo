@@ -1,6 +1,6 @@
 ### Hi there! 👋 I am Thiago Roberto Magalhães!
 
-Full Stack Developer <br>
+Full Stack Developer at EmCash<br>
 Information Systems at UFMG <br>
 Computer Network Technician at CEFET-MG<br>
 Brazil, Belo Horizonte, MG
