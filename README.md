@@ -24,6 +24,7 @@ Brazil, Belo Horizonte, MG
 
 ### 📕 &nbsp;Latest Blog Posts
 
+- [How to show date picker clicking everywhere on input date using Google Chrome](https://supertgo.hashnode.dev/how-to-show-date-picker-clicking-everywhere-on-input-date-using-google-chrome)
 - [Entendendo o EXIF das imagens importadas por dispositivos mobile](https://supertgo.hashnode.dev/entendendo-exif-das-imagens-importadas-por-dispositivos-mobile)
 
 <h3 align="left">Languages and Tools:</h3>
