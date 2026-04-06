@@ -1,6 +1,6 @@
 ### Hi there! 👋 I am Thiago Roberto Magalhães!
 
-Frontend Developer at Base2<br>
+Developer at Tarken<br>
 Information Systems at UFMG <br>
 Computer Network Technician at CEFET-MG<br>
 Brazil, Belo Horizonte, MG
